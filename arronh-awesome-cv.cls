@@ -23,6 +23,8 @@
 \ProcessOptions\relax
 \LoadClass{awesomecv/awesome-cv}
 
+% Do not hyphenate
+\usepackage[none]{hyphenat}
 %-------------------------------------------------------------------------------
 %                Commands for elements of CV structure
 %-------------------------------------------------------------------------------
